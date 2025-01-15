@@ -1,5 +1,5 @@
 {
-  "name": "cleanup-manager",
+  "name": "@glyph-cat/cleanup-manager",
   "version": "1.0.0",
   "description": "Cleanup manager for testing.",
   "main": "lib/cjs/index.js",
